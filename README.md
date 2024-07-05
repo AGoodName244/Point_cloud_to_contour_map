@@ -8,8 +8,7 @@ To set up the environment, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/AGoodName244/Point_cloud_to_contour_map.git
 2. **Create and activate the conda environment**:  
    ```sh
    conda env create -f environment.yml
